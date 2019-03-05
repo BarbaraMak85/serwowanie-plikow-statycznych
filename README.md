@@ -1,0 +1,1 @@
+# serwowanie-plikow-statycznych
