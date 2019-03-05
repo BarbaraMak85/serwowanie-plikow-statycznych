@@ -1,0 +1,23 @@
+{
+  "name": "serwowanie-plikow-statycznych",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BarbaraMak85/serwowanie-plikow-statycznych.git"
+  },
+  "author": "Barbara Makowiec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BarbaraMak85/serwowanie-plikow-statycznych/issues"
+  },
+  "homepage": "https://github.com/BarbaraMak85/serwowanie-plikow-statycznych#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
